@@ -1,6 +1,6 @@
 # netflix-dark-neo4js
 
-[A megathread on this repository](#)
+[A megathread on this repository](https://jamesingold.com/ultimate-guide-to-learning-neo4j-with-netflix-dark-series)
 
 Learn Neo4j with Netflix's Dark TV Series
 
