@@ -1,0 +1,15 @@
+{
+  "name": "netflix-dark-neo4js",
+  "version": "1.0.0",
+  "description": "Learning neo4js with Netflix's Dark Series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Ingold <yo@jamesingold.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "neode": "^0.4.3"
+  }
+}
