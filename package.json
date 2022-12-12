@@ -9,7 +9,7 @@
   "author": "James Ingold <yo@jamesingold.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "neode": "^0.4.3"
   }
 }
